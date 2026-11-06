@@ -1,0 +1,91 @@
+{
+  "global_palabras": {
+    "Quijote A (original)": 1.0,
+    "Quijote B (misma obra)": 0.992,
+    "Novelas ejemplares (Cervantes)": 0.9703,
+    "Marianela (Galdos)": 0.9248,
+    "Platero y yo (J. R. Jimenez)": 0.4842,
+    "Sintetico Markov de Quijote A": 0.9968,
+    "Sintetico Markov de Marianela": 0.9263,
+    "Quijote A con palabras revueltas": 1.0
+  },
+  "global_caracteres 3-5": {
+    "Quijote A (original)": 1.0,
+    "Quijote B (misma obra)": 0.9918,
+    "Novelas ejemplares (Cervantes)": 0.951,
+    "Marianela (Galdos)": 0.9088,
+    "Platero y yo (J. R. Jimenez)": 0.4526,
+    "Sintetico Markov de Quijote A": 0.9962,
+    "Sintetico Markov de Marianela": 0.9114,
+    "Quijote A con palabras revueltas": 1.0
+  },
+  "global_bigramas de palabras": {
+    "Quijote A (original)": 1.0,
+    "Quijote B (misma obra)": 0.8819,
+    "Novelas ejemplares (Cervantes)": 0.6826,
+    "Marianela (Galdos)": 0.4466,
+    "Platero y yo (J. R. Jimenez)": 0.157,
+    "Sintetico Markov de Quijote A": 0.8012,
+    "Sintetico Markov de Marianela": 0.394,
+    "Quijote A con palabras revueltas": 0.2396
+  },
+  "trozos": {
+    "Quijote B (misma obra)": {
+      "media": 0.74,
+      "desv": 0.0437,
+      "n": 112
+    },
+    "Novelas ejemplares (Cervantes)": {
+      "media": 0.6814,
+      "desv": 0.0445,
+      "n": 125
+    },
+    "Marianela (Galdos)": {
+      "media": 0.6278,
+      "desv": 0.0392,
+      "n": 33
+    },
+    "Platero y yo (J. R. Jimenez)": {
+      "media": 0.2412,
+      "desv": 0.1193,
+      "n": 21
+    },
+    "Sintetico Markov de Quijote A": {
+      "media": 0.8395,
+      "desv": 0.0124,
+      "n": 13
+    },
+    "Sintetico Markov de Marianela": {
+      "media": 0.6907,
+      "desv": 0.0141,
+      "n": 13
+    },
+    "Quijote A con palabras revueltas": {
+      "media": 0.8373,
+      "desv": 0.0132,
+      "n": 145
+    }
+  },
+  "ordenes": {
+    "1": {
+      "palabras": 0.9969,
+      "bigramas": 0.8786,
+      "copiadas_pct": 0.0
+    },
+    "2": {
+      "palabras": 0.9975,
+      "bigramas": 0.8833,
+      "copiadas_pct": 0.2
+    },
+    "3": {
+      "palabras": 0.9954,
+      "bigramas": 0.905,
+      "copiadas_pct": 0.6
+    },
+    "4": {
+      "palabras": 0.9871,
+      "bigramas": 0.776,
+      "copiadas_pct": 1.1
+    }
+  }
+}
